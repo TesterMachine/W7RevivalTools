@@ -1,0 +1,4 @@
+Spider mode enabled. Check if remote file exists.
+--2023-10-16 09:10:17--  http://ds.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/disallowedcert.sst
+Resolving ds.download.windowsupdate.com (ds.download.windowsupdate.com)... failed: Unknown error.
+HTTPDL: unable to resolve host address 'ds.download.windowsupdate.com'

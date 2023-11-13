@@ -1,0 +1,29 @@
+--2023-10-16 09:10:16--  http://wsus.ds.download.windowsupdate.com/msdownload/update/v3/static/trustedr/en/disallowedcert.sst
+Resolving wsus.ds.download.windowsupdate.com (wsus.ds.download.windowsupdate.com)... 8.59.16.62, 8.240.3.126, 67.24.83.254, ...
+Connecting to wsus.ds.download.windowsupdate.com (wsus.ds.download.windowsupdate.com)|8.59.16.62|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Date: Sun, 15 Oct 2023 14:05:58 GMT
+  Content-Type: application/vnd.ms-pki.certstore
+  Content-Length: 116033
+  Connection: keep-alive
+  Cache-Control: public, max-age=900
+  ETag: "6cd3b386a3f0d91:0"
+  Expires: Mon, 16 Oct 2023 13:25:17 GMT
+  Last-Modified: Tue, 26 Sep 2023 18:01:51 GMT
+  Server: Microsoft-IIS/10.0
+  X-Powered-By: ASP.NET
+  X-CID: 3
+  X-CCC: US
+  MSREGION: NA
+  Age: 83059
+  Accept-Ranges: bytes
+Length: 116033 (113K) [application/vnd.ms-pki.certstore]
+Saving to: 'disallowedcert.sst'
+
+     0K .......... .......... .......... .......... .......... 44%  640K 0s
+    50K .......... .......... .......... .......... .......... 88%  307K 0s
+   100K .......... ...                                        100% 3,82M=0,2s
+
+2023-10-16 09:10:17 (464 KB/s) - 'disallowedcert.sst' saved [116033/116033]
+

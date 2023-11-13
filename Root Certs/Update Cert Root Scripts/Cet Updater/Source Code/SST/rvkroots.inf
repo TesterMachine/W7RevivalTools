@@ -1,0 +1,43 @@
+[Version] 
+Signature = "$Chicago$"
+Provider = %Msft%
+AdvancedINF = 2.0,%AdvPack%
+
+[DefaultInstall]
+RequiredEngine = setupapi.dll,%SetupAPI%
+CheckAdminRights = 1
+RunPostSetupCommands = RunPostSetupCmds
+
+[RunPostSetupCmds]
+rvkroots.exe -l -u disallowedcert.sst
+
+
+
+[Strings]
+; !!!!!!!WARNING!!!!!!!!
+; !!!!!!!WARNING!!!!!!!!
+; !!!!!!!WARNING!!!!!!!!
+; !!!!!!!WARNING!!!!!!!!
+; >>>>> VERSION must be updated for each update roots package <<<<<
+; "Ver" must also match the first field of VERSION.
+VERSION="5,0,2195,0"     
+Ver="005"
+
+; Don't change this -- this is our unique GUID
+GUID={C3C986D6-06B1-43BF-90DD-BE30756C00DE}
+
+
+; Don't change these either
+COMPID=Windows Revoked Roots Update
+COMPName=RevokedRootsUpdate
+
+; Same set of roots for all locales
+LANG=*
+
+;----------------------
+; localizeable Strings
+;----------------------
+Msft = "Microsoft"
+AdvPack = "The correct version of Advpack.dll was not found, update halted."
+SetupAPI = "Required file: SetupAPI.dll, is missing from your system."
+
