@@ -1,4 +1,4 @@
-# W7RevivalUtilites
+# W7RevivalTools
 ## English:
 Utilities, Tools and Scripts to keep the system alive either by importing certificates for navigation among other aspects for Windows 7
 
