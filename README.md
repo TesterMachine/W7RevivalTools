@@ -22,7 +22,7 @@ To update the certificates go to [Root Certs](https://github.com/TesterMachine/W
 
 For Web Browsers Compatible with Windows 7 go to [Browsers](https://github.com/TesterMachine/W7RevivalTools/tree/main/Browsers) where the list of browsers compatible with Windows 7 + the download link from their official site or github repository is shared.
 
-If you are not an expert user you can use instead the [Win7 Revival Tool Script](github.com/TesterMachine/W7RevivalTools/releases/latest), a batch script that you only have to select what you want to do; update root certificates or Install Compatible Browsers.
+If you are not an expert user you can use instead the [Win7 Revival Tool Script](https://github.com/TesterMachine/W7RevivalTools/releases/latest), a batch script that you only have to select what you want to do update root certificates or Install Compatible Browsers.
 
 ## Español:
 Herramientas y Utilidades para mantener en funcionamiento Windows 7.
@@ -45,4 +45,4 @@ _Para esto existe ya una solucion:_
 
 *Para los Navegadores Web Compatibles con Windows 7 dirigete a [Browsers](https://github.com/TesterMachine/W7RevivalTools/tree/main/Browsers) donde se comparten la lista de navegadores compatibles con Windows 7 + el link de descarga desde su sitio oficial o repositorio github.
 
-_Si no eres un usuario experto puedes usar en su lugar el script [Win7 Revival Tool Script](github.com/TesterMachine/W7RevivalTools/releases/latest), un script batch que solo debes selecionar lo que quieras hacer; actualizar certificados raiz o Instalar Navegadores Compatibles._
+_Si no eres un usuario experto puedes usar en su lugar el script [Win7 Revival Tool Script](https://github.com/TesterMachine/W7RevivalTools/releases/latest), un script batch que solo debes selecionar lo que quieras hacer; actualizar certificados raiz o Instalar Navegadores Compatibles._
