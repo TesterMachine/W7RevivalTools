@@ -2,8 +2,8 @@
 ![banner](https://github.com/TesterMachine/W7RevivalTools/blob/main/Assets/images/banner.png)
 
 ## English:
-Utilities, Tools and Scripts to keep the system alive either by importing certificates for navigation among other aspects for Windows 7
+Tools and Utilities to keep Windows 7 running.
 
 ## Español:
-Utilidades, Herramientas y Scripts para mantener vivo el sistema ya sea importando certificados para navegacion entre otros aspectos para windows 7
+Herramientas y Utilidades para mantener en funcionamiento Windows 7.
 
