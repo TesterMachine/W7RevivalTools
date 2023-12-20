@@ -1,4 +1,4 @@
-# [W7RevivalTools](/main/assets/images/banner.png)
+# [W7RevivalTools](/assets/images/banner.png)
 ## English:
 Utilities, Tools and Scripts to keep the system alive either by importing certificates for navigation among other aspects for Windows 7
 
