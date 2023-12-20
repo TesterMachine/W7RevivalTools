@@ -18,9 +18,9 @@ The current problems with Windows 7 regarding web browsing in its entirety are b
 
 For this there is already a solution:
 
-To update the certificates go to [Root Certs](https://github.com/TesterMachine/W7RevivalTools/tree/main/Root%20Certs) and follow the instructions to update the certificates automatically, using tools that will allow you to update the certificates using the Windows Update server.
+* To update the certificates go to [Root Certs](https://github.com/TesterMachine/W7RevivalTools/tree/main/Root%20Certs) and follow the instructions to update the certificates automatically, using tools that will allow you to update the certificates using the Windows Update server.
 
-For Web Browsers Compatible with Windows 7 go to [Browsers](https://github.com/TesterMachine/W7RevivalTools/tree/main/Browsers) where the list of browsers compatible with Windows 7 + the download link from their official site or github repository is shared.
+* For Web Browsers Compatible with Windows 7 go to [Browsers](https://github.com/TesterMachine/W7RevivalTools/tree/main/Browsers) where the list of browsers compatible with Windows 7 + the download link from their official site or github repository is shared.
 
 If you are not an expert user you can use instead the [Win7 Revival Tool Script](https://github.com/TesterMachine/W7RevivalTools/releases/latest), a batch script that you only have to select what you want to do update root certificates or Install Compatible Browsers.
 
@@ -41,8 +41,8 @@ _Los problemas actuales con Windows 7 referentes a la navegacion web en su total
 
 _Para esto existe ya una solucion:_
 
-*Para Actualizar los certificados dirigete a [Root Certs](https://github.com/TesterMachine/W7RevivalTools/tree/main/Root%20Certs) y sigue las instrucciones para actualizar los certificados de forma automatica, usando herramientas que permitiran actualizar los certificados usando el servidor de Windows Update.
+* Para Actualizar los certificados dirigete a [Root Certs](https://github.com/TesterMachine/W7RevivalTools/tree/main/Root%20Certs) y sigue las instrucciones para actualizar los certificados de forma automatica, usando herramientas que permitiran actualizar los certificados usando el servidor de Windows Update.
 
-*Para los Navegadores Web Compatibles con Windows 7 dirigete a [Browsers](https://github.com/TesterMachine/W7RevivalTools/tree/main/Browsers) donde se comparten la lista de navegadores compatibles con Windows 7 + el link de descarga desde su sitio oficial o repositorio github.
+* Para los Navegadores Web Compatibles con Windows 7 dirigete a [Browsers](https://github.com/TesterMachine/W7RevivalTools/tree/main/Browsers) donde se comparten la lista de navegadores compatibles con Windows 7 + el link de descarga desde su sitio oficial o repositorio github.
 
 _Si no eres un usuario experto puedes usar en su lugar el script [Win7 Revival Tool Script](https://github.com/TesterMachine/W7RevivalTools/releases/latest), un script batch que solo debes selecionar lo que quieras hacer; actualizar certificados raiz o Instalar Navegadores Compatibles._
