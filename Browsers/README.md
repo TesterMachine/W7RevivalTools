@@ -2,10 +2,6 @@
 
 **Based on Chromium:**
 
-| Name          | Version         | Download      |
-| ------------- | -------------   | ------------- |
-| Google Chrome | 109.0.5414.168  | [x86](https://dl.google.com/release2/chrome/p5iizujxrjjggjfl7d4kvj5e5i_109.0.5414.168/109.0.5414.168_chrome_installer.exe), [x64](https://dl.google.com/release2/chrome/nvwf3mhcdg76ot6qwp75ovmh2u_109.0.5414.168/109.0.5414.168_chrome_installer.exe)              |
-| Content Cell  | Content Cell    |               |
 
 **Based on Mozilla:**
 
