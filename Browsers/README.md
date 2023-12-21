@@ -1,9 +1,7 @@
 # List Web Browsers Compatible for Windows 7:
 
-Under editing
-
-## _English:_
-
-
-## _Español:_
+| Name  | Version | | Version |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
