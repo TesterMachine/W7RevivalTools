@@ -2,7 +2,7 @@
 
 **Based on Chromium:**
 
-| Name          | Version         | Architecture  |
+| Name          | Version         | Download      |
 | ------------- | -------------   | ------------- |
 | Google Chrome | 109.0.5414.168  |               |
 | Content Cell  | Content Cell    |               |
