@@ -16,7 +16,17 @@ _when not receiving updates in the root certificates, the system cannot access t
 
 The current problems with Windows 7 regarding web browsing in its entirety are because the root certificates are not updated and also because there are no compatible browsers or the developers do not provide the version compatible with Windows 7.
 
-For this there is already a solution:
+For this there is already a solution.
+
+To make Windows 7 work properly with several current programs and browsers, you have to meet certain requirements:
+
+Have the system updated: it is necessary that Windows 7 has the latest updates because they include the most important ones such as the support of SHA-2 which is required in several programs and browsers, If your system is not updated you can use [SimplixUpdatePack7R2](https://blog.simplix.info/updatepack7r2/) which provides the latest updates free of junk such as telemetry and unnecessary processor checks.
+
+Have internet connection: it is necessary to have internet connection so as to update the root certificates and also be able to browse on the web (obviously).
+
+Have installed [Visual C++](https://github.com/abbodi1406/vcredist/releases/latest), [DirectX](https://github.com/stdin82/htfx/releases/download/v0.0.2/DirectX_Redist_Repack_x86_x64.zip) and Net Framework 4.8 All at their latest available version. (You can download and install them by clicking on the names of each program and they will take you to the download link).
+
+Once having in mind these requirements you can perform the following actions:
 
 * To update the certificates go to [Root Certs](https://github.com/TesterMachine/W7RevivalTools/tree/main/Root%20Certs) and follow the instructions to update the certificates automatically, using tools that will allow you to update the certificates using the Windows Update server.
 
@@ -39,7 +49,18 @@ _al no recibir actualizaciones en los certificados raiz, el sistema no logra acc
 
 _Los problemas actuales con Windows 7 referentes a la navegacion web en su totalidad son por que los certificados raiz no estan actualizados y tambien por no haber navegadores compatibles o que los desarrolladores no proporcionan la version compatible con Windows 7._
 
-_Para esto existe ya una solucion:_
+_Para esto existe ya una solucion._
+
+Para que Windows 7 pueda seguir funcionando correctamente con varios programas actuales y navegadores hay que cumplir ciertos requisitos:
+
+*	Tener el sistema actualizado: es necesario que Windows 7 tenga las últimas actualizaciones ya que se incluyen las más importantes como el soporte de SHA-2 que es requerido en varios programas y navegadores, Si tu sistema no está actualizado puedes usar [SimplixUpdatePack7R2](https://blog.simplix.info/updatepack7r2/) el cual proporciona las actualizaciones más recientes libres de basura como telemetría y verificaciones innecesarias de procesador.
+
+* Tener conexión a internet: es necesario tener conexión a internet para así actualizar los certificados raíz y también poder navegar en la web (obviamente).
+
+* Tener Instalado los [Visual C++](https://github.com/abbodi1406/vcredist/releases/latest), [DirectX](https://github.com/stdin82/htfx/releases/download/v0.0.2/DirectX_Redist_Repack_x86_x64.zip) y Net Framework 4.8 Todos a su última versión disponible. _(Puedes descargarlos e instalarlos dando clic en los nombres de cada programa y te llevaran al link de descarga)._
+
+Una vez teniendo en cuenta estos requisitos puedes realizar las siguientes acciones:
+
 
 * Para Actualizar los certificados dirigete a [Root Certs](https://github.com/TesterMachine/W7RevivalTools/tree/main/Root%20Certs) y sigue las instrucciones para actualizar los certificados de forma automatica, usando herramientas que permitiran actualizar los certificados usando el servidor de Windows Update.
 
