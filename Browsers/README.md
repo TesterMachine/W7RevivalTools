@@ -9,10 +9,10 @@
 
 **Based on Mozilla:**
 
-| Name          | Version       | Architecture  | Download
-| ------------- | ------------- | ------------- | -------------
-| Content Cell  | Content Cell  |               | Content cell               
-| Content Cell  | Content Cell  |               | Content cell
+| Name          | Version         | Download      |
+| ------------- | -------------   | ------------- |
+| Content cell  | Content cell    |               |
+| Content Cell  | Content Cell    |               |
 
 Note in English:
 > [!NOTE]
