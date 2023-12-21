@@ -24,7 +24,7 @@ Have the system updated: it is necessary that Windows 7 has the latest updates b
 
 Have internet connection: it is necessary to have internet connection so as to update the root certificates and also be able to browse on the web (obviously).
 
-Have installed [Visual C++](https://github.com/abbodi1406/vcredist/releases/latest), [DirectX](https://github.com/stdin82/htfx/releases/download/v0.0.2/DirectX_Redist_Repack_x86_x64.zip) and Net Framework 4.8 All at their latest available version. (You can download and install them by clicking on the names of each program and they will take you to the download link).
+Have installed [Visual C++](https://github.com/abbodi1406/vcredist/releases/latest), [DirectX](https://github.com/stdin82/htfx/releases/download/v0.0.2/DirectX_Redist_Repack_x86_x64.zip) and [Net Framework 4.8](https://download.visualstudio.microsoft.com/download/pr/2d6bb6b2-226a-4baa-bdec-798822606ff1/8494001c276a4b96804cde7829c04d7f/ndp48-x86-x64-allos-enu.exe) All at their latest available version. (You can download and install them by clicking on the names of each program and they will take you to the download link).
 
 Once having in mind these requirements you can perform the following actions:
 
@@ -57,7 +57,7 @@ Para que Windows 7 pueda seguir funcionando correctamente con varios programas a
 
 * Tener conexión a internet: es necesario tener conexión a internet para así actualizar los certificados raíz y también poder navegar en la web (obviamente).
 
-* Tener Instalado los [Visual C++](https://github.com/abbodi1406/vcredist/releases/latest), [DirectX](https://github.com/stdin82/htfx/releases/download/v0.0.2/DirectX_Redist_Repack_x86_x64.zip) y Net Framework 4.8 Todos a su última versión disponible. _(Puedes descargarlos e instalarlos dando clic en los nombres de cada programa y te llevaran al link de descarga)._
+* Tener Instalado los [Visual C++](https://github.com/abbodi1406/vcredist/releases/latest), [DirectX](https://github.com/stdin82/htfx/releases/download/v0.0.2/DirectX_Redist_Repack_x86_x64.zip) y [Net Framework 4.8](https://download.visualstudio.microsoft.com/download/pr/2d6bb6b2-226a-4baa-bdec-798822606ff1/8494001c276a4b96804cde7829c04d7f/ndp48-x86-x64-allos-enu.exe) Todos a su última versión disponible. _(Puedes descargarlos e instalarlos dando clic en los nombres de cada programa y te llevaran al link de descarga)._
 
 Una vez teniendo en cuenta estos requisitos puedes realizar las siguientes acciones:
 
