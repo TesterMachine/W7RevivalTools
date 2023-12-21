@@ -26,6 +26,9 @@ Have internet connection: it is necessary to have internet connection so as to u
 
 Have installed [Visual C++](https://github.com/abbodi1406/vcredist/releases/latest), [DirectX](https://github.com/stdin82/htfx/releases/download/v0.0.2/DirectX_Redist_Repack_x86_x64.zip) and [Net Framework 4.8](https://download.visualstudio.microsoft.com/download/pr/2d6bb6b2-226a-4baa-bdec-798822606ff1/8494001c276a4b96804cde7829c04d7f/ndp48-x86-x64-allos-enu.exe) All at their latest available version. (You can download and install them by clicking on the names of each program and they will take you to the download link).
 
+> [!NOTE]
+> I highly recommend that you meet these requirements for best results.
+
 Once having in mind these requirements you can perform the following actions:
 
 * To update the certificates go to [Root Certs](https://github.com/TesterMachine/W7RevivalTools/tree/main/Root%20Certs) and follow the instructions to update the certificates automatically, using tools that will allow you to update the certificates using the Windows Update server.
@@ -58,6 +61,9 @@ Para que Windows 7 pueda seguir funcionando correctamente con varios programas a
 * Tener conexión a internet: es necesario tener conexión a internet para así actualizar los certificados raíz y también poder navegar en la web (obviamente).
 
 * Tener Instalado los [Visual C++](https://github.com/abbodi1406/vcredist/releases/latest), [DirectX](https://github.com/stdin82/htfx/releases/download/v0.0.2/DirectX_Redist_Repack_x86_x64.zip) y [Net Framework 4.8](https://download.visualstudio.microsoft.com/download/pr/2d6bb6b2-226a-4baa-bdec-798822606ff1/8494001c276a4b96804cde7829c04d7f/ndp48-x86-x64-allos-enu.exe) Todos a su última versión disponible. _(Puedes descargarlos e instalarlos dando clic en los nombres de cada programa y te llevaran al link de descarga)._
+
+> [!NOTE]
+> Recomiendo encarecidamente, que cumpla estos requisitos para tener mejores resultados.
 
 Una vez teniendo en cuenta estos requisitos puedes realizar las siguientes acciones:
 
