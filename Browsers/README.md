@@ -1,7 +1,6 @@
 # List Web Browsers Compatible for Windows 7:
 
 **Based on Chromium:**
-
 | Name                            | Version                              | Download                                                                                                                                                                                                                                                                                                  |
 |---------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Google Chrome                   | 109.0.5414.168                       | [x86](https://dl.google.com/release2/chrome/p5iizujxrjjggjfl7d4kvj5e5i_109.0.5414.168/109.0.5414.168_chrome_installer.exe) [x64](https://dl.google.com/release2/chrome/nvwf3mhcdg76ot6qwp75ovmh2u_109.0.5414.168/109.0.5414.168_chrome_installer.exe)                                                     |
@@ -19,6 +18,8 @@
 | Cent Browser                    | Latest                               | [Link](http://www.centbrowser.com/)                                                                                                                                                                                                                                                                       |
 | Slimjet                         | v38.0.9.0                            | [Link](https://www.slimjet.com/en/dlpage_win78.php)                                                                                                                                                                                                                                                       |
 | SRWare Iron                     | Latest                               | [Link](https://www.srware.net/downloads/win7.html)                                                                                                                                                                                                                                                        |
+| Maxthon Browser                 | Latest                               | [Link](https://www.maxthon.com/en/download)                                                                                                                                                                                                                                                               |
+
 
 **Based on Mozilla:**
 
