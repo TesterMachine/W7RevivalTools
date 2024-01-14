@@ -35,7 +35,6 @@
 | K-Meleon         | Latest      | [Link](http://kmeleonbrowser.org/download.php)                                                                                              |
 | SlimBrowser      | Latest      | [Link](https://www.slimbrowser.net/en/dlpage.php)                                                                                           |
 |                  |             |                                                                                                                                             |
-|                  |             |                                                                                                                                             |
 
 Note in English:
 > [!NOTE]
