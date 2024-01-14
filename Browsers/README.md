@@ -22,10 +22,19 @@
 
 **Based on Mozilla:**
 
-| Name          | Version         | Download      |
-| ------------- | -------------   | ------------- |
-| Content cell  | Content cell    |               |
-| Content Cell  | Content Cell    |               |
+| Name             | Version     | Download                                                                                                                                    |
+|------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Mozilla Firefox  | 115.5.0 ESR | [x86](https://ftp.mozilla.org/pub/firefox/releases/115.5.0esr/win32/) [x64](https://ftp.mozilla.org/pub/firefox/releases/115.5.0esr/win64/) |
+| PaleMoon         | Latest      | [Link](https://www.palemoon.org/download.shtml)                                                                                             |
+| Basilisk Browser | Latest      | [Link](https://www.basilisk-browser.org/download.shtml)                                                                                     |
+| WaterFox         | Latest      | [Link](https://www.waterfox.net)                                                                                                            |
+| WaterFox Classic | Latest      | [Link](https://classic.waterfox.net/)                                                                                                       |
+| SeaMonkey        | Latest      | [Link](https://www.seamonkey-project.org/releases/)                                                                                         |
+| LibreWolf        | Latest      | [Link](https://librewolf.net/installation/windows/)                                                                                         |
+| K-Meleon         | Latest      | [Link](http://kmeleonbrowser.org/download.php)                                                                                              |
+| SlimBrowser      | Latest      | [Link](https://www.slimbrowser.net/en/dlpage.php)                                                                                           |
+|                  |             |                                                                                                                                             |
+|                  |             |                                                                                                                                             |
 
 Note in English:
 > [!NOTE]
