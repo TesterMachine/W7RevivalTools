@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Chromium]
+"SuppressUnsupportedOSWarning"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome]
+"SuppressUnsupportedOSWarning"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Policies\BraveSoftware\Brave]
+"SuppressUnsupportedOSWarning"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge]
+"SuppressUnsupportedOSWarning"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Vivaldi]
+"SuppressUnsupportedOSWarning"=dword:00000001
