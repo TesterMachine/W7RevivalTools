@@ -34,6 +34,7 @@
 | LibreWolf        | Latest      | [Link](https://librewolf.net/installation/windows/)                                                                                         |
 | K-Meleon         | Latest      | [Link](http://kmeleonbrowser.org/download.php)                                                                                              |
 | SlimBrowser      | Latest      | [Link](https://www.slimbrowser.net/en/dlpage.php)                                                                                           |
+| MyPal Browser    | Latest      | [Link](github.com/Feodor2/Mypal68/releases/latest)                                                                                          |
 
 Note in English:
 > [!NOTE]
