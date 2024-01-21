@@ -43,9 +43,11 @@ Note in English:
 > This list will be updated, those programs that are no longer available on the web will be uploaded in this repository.
 > 
 > It is recommended to import the ["SuppressUnsupportedOSWarning.reg"](https://github.com/TesterMachine/W7RevivalTools/blob/main/Browsers/SuppressUnsupportedOSWarning.reg) file to suppress the unsupported operating system warning in Chromium-based browsers.
+> Note: it is possible that an option called "Controlled by your organization" appears in the browser because group policies are imported for all users of the system.
 
 Nota en Español:
 > [!NOTE]
 > Esta lista se ira actualizando, aquellos programas que ya no esten disponibles en la web estaran subidos en este repositorio.
 > 
 > Es recomendable importar el archivo ["SuppressUnsupportedOSWarning.reg"](https://github.com/TesterMachine/W7RevivalTools/blob/main/Browsers/SuppressUnsupportedOSWarning.reg) para suprimir la advertencia de sistema operativo no compatible en los navegadores basados en Chromiun.
+> Nota: es posible que en el navegador aparezca una opcion llamada "Controlado por tu organizacion" esto por que se importa politicas de grupo para todos los usuarios del sistema. 
