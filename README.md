@@ -21,6 +21,7 @@ For this there is already a solution.
 To make Windows 7 work properly with several current programs and browsers, you have to meet certain requirements:
 
 Have the system updated: it is necessary that Windows 7 has the latest updates because they include the most important ones such as the support of SHA-2 which is required in several programs and browsers, If your system is not updated you can use [SimplixUpdatePack7R2](https://blog.simplix.info/updatepack7r2/) which provides the latest updates free of junk such as telemetry and unnecessary processor checks.
+(also SIMPLIFIXUPDATEPACK7R2 updates the root certificates)
 
 Have internet connection: it is necessary to have internet connection so as to update the root certificates and also be able to browse on the web (obviously).
 
@@ -57,6 +58,7 @@ _Para esto existe ya una solucion._
 Para que Windows 7 pueda seguir funcionando correctamente con varios programas actuales y navegadores hay que cumplir ciertos requisitos:
 
 *	Tener el sistema actualizado: es necesario que Windows 7 tenga las últimas actualizaciones ya que se incluyen las más importantes como el soporte de SHA-2 que es requerido en varios programas y navegadores, Si tu sistema no está actualizado puedes usar [SimplixUpdatePack7R2](https://blog.simplix.info/updatepack7r2/) el cual proporciona las actualizaciones más recientes libres de basura como telemetría y verificaciones innecesarias de procesador.
+*	(tambien SimplixUpdatePack7R2 actualiza los certificados raiz)
 
 * Tener conexión a internet: es necesario tener conexión a internet para así actualizar los certificados raíz y también poder navegar en la web (obviamente).
 
