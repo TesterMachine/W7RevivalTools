@@ -1,6 +1,9 @@
 # W7RevivalTools
 ![banner](https://github.com/TesterMachine/W7RevivalTools/blob/main/Assets/images/banner.png)
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/TesterMachine/W7RevivalTools/total)
+
+
 ## English:
 Tools and Utilities to keep Windows 7 running.
 
