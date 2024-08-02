@@ -40,6 +40,8 @@ Once having in mind these requirements you can perform the following actions:
 
 If you are not an expert user you can use instead the [Win7 Revival Tool Script](https://github.com/TesterMachine/W7RevivalTools/releases/latest), a batch script that you only have to select what you want to do update root certificates or Install Compatible Browsers.
 
+**This repository is also compatible with Windows 8/8.1 (this is because they share the same problem of incompatibility with browsers plus the issue of updates using "SimplixUpdatePack" is not compatible).**
+
 ## Español:
 Herramientas y Utilidades para mantener en funcionamiento Windows 7.
 
@@ -77,3 +79,5 @@ Una vez teniendo en cuenta estos requisitos puedes realizar las siguientes accio
 * Para los Navegadores Web Compatibles con Windows 7 dirigete a [Browsers](https://github.com/TesterMachine/W7RevivalTools/tree/main/Browsers) donde se comparten la lista de navegadores compatibles con Windows 7 + el link de descarga desde su sitio oficial o repositorio github.
 
 _Si no eres un usuario experto puedes usar en su lugar el script [Win7 Revival Tool Script](https://github.com/TesterMachine/W7RevivalTools/releases/latest), un script batch que solo debes selecionar lo que quieras hacer; actualizar certificados raiz o Instalar Navegadores Compatibles._
+
+**Este repositorio tambien es compatible con Windows 8/8.1 (esto porque comparten el mismo problema de incompatibilidad con navegadores mas el tema de actualizaciones usando "SimplixUpdatePack" no es compatible).**
