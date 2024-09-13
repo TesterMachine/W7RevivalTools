@@ -39,7 +39,7 @@
 **Others:**
 | Name                                | Version | Download                                                       |
 |-------------------------------------|---------|----------------------------------------------------------------|
-| ArmCord (Discord variant supported) | Latest  | [Download](www.github.com/Alex313031/ArmCord-Win7/releases/latest) |
+| ArmCord (Discord variant supported) | Latest  | [Download](https://www.github.com/Alex313031/ArmCord-Win7/releases/latest) |
 |                                     |         |                                                                |
 
 Note in English:
