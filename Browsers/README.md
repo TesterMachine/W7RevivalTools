@@ -37,6 +37,12 @@
 | SlimBrowser      | Latest            | [Link](https://www.slimbrowser.net/en/dlpage.php)                                                                                           |
 | MyPal Browser    | Latest            | [Link](github.com/Feodor2/Mypal68/releases/latest)                                                                                          |
 
+**Others:**
+| Name                                | Version | Download                                                       |
+|-------------------------------------|---------|----------------------------------------------------------------|
+| ArmCord (Discord variant supported) | Latest  | [Download](github.com/Alex313031/ArmCord-Win7/releases/latest) |
+|                                     |         |                                                                |
+
 Note in English:
 > [!NOTE]
 > This list will be updated, those programs that are no longer available on the web will be uploaded in this repository.
