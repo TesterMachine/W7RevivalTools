@@ -34,12 +34,12 @@
 | LibreWolf        | Latest            | [Link](https://librewolf.net/installation/windows/)                                                                                         |
 | K-Meleon         | Latest by Roytam1 | [Link](https://o.rthost.win/kmeleon/)                                                                                                       |
 | SlimBrowser      | Latest            | [Link](https://www.slimbrowser.net/en/dlpage.php)                                                                                           |
-| MyPal Browser    | Latest            | [Link](github.com/Feodor2/Mypal68/releases/latest)                                                                                          |
+| MyPal Browser    | Latest            | [Link](https://www.github.com/Feodor2/Mypal68/releases/latest)                                                                                          |
 
 **Others:**
 | Name                                | Version | Download                                                       |
 |-------------------------------------|---------|----------------------------------------------------------------|
-| ArmCord (Discord variant supported) | Latest  | [Download](github.com/Alex313031/ArmCord-Win7/releases/latest) |
+| ArmCord (Discord variant supported) | Latest  | [Download](www.github.com/Alex313031/ArmCord-Win7/releases/latest) |
 |                                     |         |                                                                |
 
 Note in English:
